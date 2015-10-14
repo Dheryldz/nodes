@@ -1,3 +1,6 @@
 /*
+!.gitignore
 mode_modules
 */
+
+mode_modules/*
