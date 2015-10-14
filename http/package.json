@@ -1,0 +1,26 @@
+{
+    "name": "fangcao",
+    "version": "0.0.1",
+    "description": "用来测试基础",
+    "main": "http.js",
+    "dependencies": {
+        "cheerio": "^0.19.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "node xxx.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/fangcao7618/nodeTest.git"
+    },
+    "keywords": [
+        "node"
+    ],
+    "author": "fangcao",
+    "license": "SEE LICENSE IN <node>",
+    "bugs": {
+        "url": "https://github.com/fangcao7618/nodeTest/issues"
+    },
+    "homepage": "https://github.com/fangcao7618/nodeTest#readme"
+}
