@@ -1,6 +1,1 @@
-/*
-!.gitignore
-mode_modules
-*/
-
-http/mode_modules/*
+http/node_modules/
